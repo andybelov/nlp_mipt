@@ -1,2 +1,3 @@
-# nlp_mipt
-Repository for Natural Language Processing and Text Analytics course at Moscow Institute of Physics and Technology
+# NLP_MIPT
+Репозиторий курса по анализу текстов и обработке естественного языка на ФИВТ МФТИ.
+Страница курса: https://vk.com/nlp_mipt
